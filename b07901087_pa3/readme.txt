@@ -26,7 +26,7 @@ HOW TO RUN:
 ================
 Copyright:
 
-Those files are the course materials, and authors are TAs and teaches.
+Those files are from the course materials, and authors are TAs and teaches.
 pa3_checker
 alg_prog3_1217.pdf
 public_cases/
